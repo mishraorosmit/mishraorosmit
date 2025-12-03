@@ -1,26 +1,133 @@
-<h1 align="center">Hi 👋, I'm Orosmit Mishra</h1>
-<h3 align="center">A passionate frontend developer from India!</h3>
+<!-- PROFILE HEADER -->
+<div align="center">
+  <!-- Futuristic banner (replace with your own if you want) -->
+  <img src="https://images.pexels.com/photos/313782/pexels-photo-313782.jpeg" width="100%" alt="Neon cyber background">
+  
+  <br><br>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Orosmit+Mishra+%F0%9F%9A%80;Teen+Developer+%7C+Fintech+%26+Healthtech+Builder;Java+%7C+Python+%7C+JS+%7C+Full+Stack+Explorer" alt="Typing SVG" />
+  
+  <br><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mishraorosmit&label=Profile%20views&color=0e75b6&style=flat" alt="mishraorosmit" /> </p>
+  <a href="https://github.com/mishraorosmit">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff" />
+  </a>
+  <!-- Add your real LinkedIn / email / portfolio links here -->
+  <a href="https://www.linkedin.com/in/your-link-here">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=ffffff" />
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mishraorosmit" alt="mishraorosmit" /></a> </p>
+---
 
-- 🔭 I’m currently working on **CheesyPixels (PAASO)**
+## 🧬 About Me
+name: "Orosmit Mishra"
+role: "Student Developer"
+location: "India"
+focus:
+"Fintech & UPI tools for teens"
+"Healthtech & NGO tooling"
+"Full‑stack web apps"
+flagship_projects:
+"PAASO – platform for NGOs to manage operations, volunteers & impact"
+"Samhita Fusion – blending tech, community and data for better outreach"
+currently_learning:
+"Advanced Java & DSA patterns"
+"Python for automation/AI integrations"
+"Modern frontend (React/Next + Tailwind)"
+dev_style:
+"Ship small, ship often"
+"Readable > clever"
+"APIs first, UI second"
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mishraorosmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mishraorosmit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/orosmit mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orosmit mishra" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mishraorosmit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mishraorosmit" height="30" width="40" /></a>
-<a href="https://instagram.com/orosholic_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="orosholic_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/orosmitmishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="orosmitmishra" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mishraorosmit&show_icons=true&locale=en&layout=compact" alt="mishraorosmit" /></p>
+## 🧠 Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mishraorosmit&show_icons=true&locale=en" alt="mishraorosmit" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mishraorosmit&" alt="mishraorosmit" /></p>
+| Area        | Tech |
+|------------|------|
+| Languages  | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=F7DF1E) |
+| Frontend   | ![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white) |
+| Backend    | ![Node.js](https://img.shields.io/badge/Node.js-0D9488?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white) |
+| DB & Auth  | ![Supabase](https://img.shields.io/badge/Supabase-1A202C?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white) |
+| Tools      | ![Git](https://img.shields.io/badge/Git-F97316?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=22C55E) ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC21B) |
+
+</div>
+
+---
+
+## 🚀 Flagship Projects
+
+<div align="center">
+
+  <!-- PAASO CARD -->
+  <a href="https://github.com/mishraorosmit/PAASO" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraorosmit&repo=PAASO&theme=react&bg_color=0D1117&border_color=1F2937&show_icons=true" />
+  </a>
+
+  <!-- Samhita Fusion CARD -->
+  <a href="https://github.com/mishraorosmit/Samhita-Fusion" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mishraorosmit&repo=Samhita-Fusion&theme=react&bg_color=0D1117&border_color=1F2937&show_icons=true" />
+  </a>
+
+</div>
+
+### 🧩 PAASO (Platform for NGOs)
+
+A modern web platform for NGOs to:
+
+- Manage **projects, volunteers, and donations** from one clean dashboard.  
+- Track **impact metrics** instead of drowning in spreadsheets.  
+- Use a developer‑friendly API layer so others can integrate PAASO into their own tools.  
+
+> Goal: give small NGOs the kind of internal tools only big orgs can usually afford.
+
+---
+
+### 🌐 Samhita Fusion
+
+A hybrid project that aims to:
+
+- **Fuse community, data, and design** to tell stories around social work.  
+- Provide interfaces for **events, campaigns, and feedback collection**.  
+- Experiment with **visual dashboards** and simple AI helpers for summaries and insights.  
+
+> Goal: make it stupid‑simple for teams to see “what’s happening” across their initiatives.
+
+---
+
+## 📊 GitHub Vitals
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mishraorosmit&show_icons=true&theme=react&bg_color=0D1117&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mishraorosmit&theme=react&background=0D1117&hide_border=true" height="160" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mishraorosmit&theme=react-dark&bg_color=0D1117&hide_border=true" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- Turning **PAASO** into a usable tool for real NGOs (clean UX + solid APIs).  
+- Refining **Samhita Fusion** into a smooth storytelling + analytics layer.  
+- Leveling up in **architecture, testing, and documentation** so projects are easy to onboard into.  
+
+---
+
+<div align="center">
+
+  <img src="https://img.shields.io/badge/Open%20to%20collabs-00E5FF?style=for-the-badge&logo=github&logoColor=0F172A" />
+
+  <br><br>
+
+  <sub>“Build things that people actually use.”</sub>
+</div>
