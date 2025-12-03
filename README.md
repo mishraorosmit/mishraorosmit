@@ -123,11 +123,30 @@ A hybrid project that aims to:
 
 ---
 
+---
+
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Open%20to%20collabs-00E5FF?style=for-the-badge&logo=github&logoColor=0F172A" />
+  <!-- Faux animated button using a GIF background -->
+  <a href="https://github.com/mishraorosmit?tab=repositories" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/Explore%20my%20projects-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"
+      alt="Explore my projects"
+    />
+  </a>
+
+  <br><br>
+
+  <!-- Pulsing/animated call-to-action using a custom SVG -->
+  <a href="https://github.com/mishraorosmit" target="_blank">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=260&lines=%3E%3E%3E+LET'S+COLLAB+%3C%3C%3C"
+      alt="Let's collab"
+    />
+  </a>
 
   <br><br>
 
   <sub>“Build things that people actually use.”</sub>
 </div>
+
