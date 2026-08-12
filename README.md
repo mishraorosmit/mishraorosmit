@@ -4,21 +4,21 @@
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-[andriidrok.com](https://andriidrok.com) &nbsp;·&nbsp;
-[instagram](https://www.instagram.com/andrii_drok/) &nbsp;·&nbsp;
-[linkedin](https://www.linkedin.com/in/andriidrok/) &nbsp;·&nbsp;
-[email](mailto:clb@mirasvit.com)
+[orosmit's web](https://new-portfolio-49hh4v40f-orosmits-projects.vercel.app/) &nbsp;·&nbsp;
+[instagram](https://www.instagram.com/orosholic_) &nbsp;·&nbsp;
+[linkedin](www.linkedin.com/in/orosmit-mishra) &nbsp;·&nbsp;
+[email](mailto:mishraorosmit21@gmail.com)
 
 </div>
 
 <img src="./hd-about.svg" width="620" alt="about"/>
 
-> CS student at San Francisco State, in the SF Bay Area.<br>
-> Small, sharp tools over big vague ideas.
+> CSE AI AND ML STUDENT | ITER SOA, BBSR <br>
+> I CREATE USELESS THINGS BTW.
 
-I build fast, test on real users, and kill what doesn't work. Right now that's<br>
-[autobroll](https://github.com/andriidrok1/autobroll) — an AI short-form video editor that runs in the browser. Also<br>
-deep into markets: Pine Script indicators, backtesting, on-chain data.
+I love thinking, reading philosophical stuff and mostly talk a lot. <br>
+[autobroll](https://github.com/mishraorosmit/bdam) - BLOCKCHAIN DIGITAL ASSET MANAGEMENT<br>
+A project that taught me a lot! 
 
 <img src="./hd-stack.svg" width="620" alt="stack"/>
 
@@ -26,20 +26,13 @@ deep into markets: Pine Script indicators, backtesting, on-chain data.
 
 <img src="./hd-projects.svg" width="620" alt="projects"/>
 
-**[autobroll](https://github.com/andriidrok1/autobroll)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
+**[autobroll](https://github.com/mishraorosmit/mishraorosmit)** &nbsp;·&nbsp; <samp>typescript, remotion</samp><br>
 AI short-form video editor in the browser. Auto captions with accents,<br>
 drag-and-retime editing, b-roll placement: transcript in, rendered video out.
 
-**[strategy-checker](https://github.com/andriidrok1/strategy-checker)** &nbsp;·&nbsp; <samp>python</samp><br>
-Describe a trading strategy in plain English, get a real backtest with<br>
-statistical validation. Exposes curve-fitting, not alpha.
-
-**[compound](https://github.com/andriidrok1/compound)** &nbsp;·&nbsp; <samp>typescript, convex</samp><br>
-Autonomous research agent for your second brain. Built solo at Nozomio<br>
-Hackathon, EF SF.
-
-**[andriidrok.com](https://andriidrok.com)** &nbsp;·&nbsp; <samp>three.js, webgl</samp><br>
-Particle-morph portfolio: thousands of particles reshaping between scenes.
+**[Samhita-Fusion](https://github.com/mishraorosmit/samhita_fusion_major_draft)** &nbsp;·&nbsp; <samp>python</samp><br>
+Common platform for traditional medicine practitioners to manage appointments (replacement for your costly receptionist)
+and for researchers to get data about TM (adhereing WHO TM11)
 
 <img src="./hd-stats.svg" width="620" alt="stats"/>
 
@@ -62,7 +55,7 @@ these section headings are drawn by [a scheduled action](.github/workflows/stats
 straight from the GitHub GraphQL API, once a day, committing only what changed.
 
 They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
-READMEs — and since nothing loads from a third party, nothing here can<br>
+READMEs - and since nothing loads from a third party, nothing here can<br>
 rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
 strips CSS, so an image is the only way to put this page's own typeface on them.
 
