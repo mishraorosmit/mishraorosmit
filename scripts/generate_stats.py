@@ -456,6 +456,8 @@ def write(path, svg):
         f.write(svg)
     return True
 
+from dotenv import load_dotenv
+load_dotenv()
 
 def main():
     token = os.environ.get("GITHUB_TOKEN")
