@@ -456,8 +456,13 @@ def write(path, svg):
         f.write(svg)
     return True
 
-from dotenv import load_dotenv
-load_dotenv()
+try:
+    from dotenv import load_dotenv
+except ImportError:
+    load_dotenv = None
+
+if load_dotenv is not None:
+    load_dotenv()
 
 def main():
     token = os.environ.get("GITHUB_TOKEN")
