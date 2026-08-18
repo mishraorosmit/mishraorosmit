@@ -456,7 +456,11 @@ def write(path, svg):
         f.write(svg)
     return True
 
-from dotenv import load_dotenv
+try:
+    from dotenv import load_dotenv
+except ModuleNotFoundError:
+    def load_dotenv():
+        return None
 load_dotenv()
 
 def main():
