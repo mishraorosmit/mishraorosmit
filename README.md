@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="./wordmark.svg" alt="OROSMIT MISHRA" width="460" />
-
-<p>Studying computer science (AI/ML) at ITER SOA.<br>Building browser-side video tools and experimenting with data systems.</p>
-
-<sub>`iter soa` &nbsp;·&nbsp; `bhubaneswar, in`</sub>
+<img src="./header.svg" alt="OROSMIT MISHRA — System Archive" width="100%" />
 
 </div>
 

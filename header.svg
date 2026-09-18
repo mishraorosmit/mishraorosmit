@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" fill="none" width="100%" height="100%">
+  <defs>
+    <style>
+      .mono {
+        font-family: ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, monospace;
+      }
+      .sans {
+        font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      }
+      .title {
+        font-size: 38px;
+        font-weight: 800;
+        letter-spacing: -0.03em;
+        fill: #f3f4f6;
+      }
+      .label {
+        font-size: 11px;
+        letter-spacing: 0.12em;
+        fill: #6b7280;
+      }
+      .subtext {
+        font-size: 13.5px;
+        letter-spacing: -0.01em;
+        fill: #9ca3af;
+      }
+      .accent {
+        fill: #c89b58;
+      }
+      .hairline {
+        stroke: #1b1e26;
+        stroke-width: 1;
+      }
+      .hairline-subtle {
+        stroke: #161820;
+        stroke-width: 1;
+      }
+    </style>
+
+    <!-- Subtle animated ambient background gradients -->
+    <radialGradient id="ambient-glow-1" cx="25%" cy="30%" r="65%">
+      <animate attributeName="cx" values="25%;40%;25%" dur="24s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="30%;55%;30%" dur="20s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#161e2e" stop-opacity="0.65" />
+      <stop offset="60%" stop-color="#0e121a" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#08090c" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="ambient-glow-2" cx="75%" cy="65%" r="60%">
+      <animate attributeName="cx" values="75%;60%;75%" dur="22s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="65%;35%;65%" dur="26s" repeatCount="indefinite" />
+      <stop offset="0%" stop-color="#241c14" stop-opacity="0.5" />
+      <stop offset="60%" stop-color="#120e0b" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#08090c" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Precision Dot Matrix Pattern -->
+    <pattern id="matrix-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="14" cy="14" r="0.75" fill="#ffffff" fill-opacity="0.055" />
+    </pattern>
+  </defs>
+
+  <!-- Base Dark Canvas -->
+  <rect width="900" height="240" fill="#08090c" rx="4" />
+
+  <!-- Animated Ambient Lighting Layers -->
+  <rect width="900" height="240" fill="url(#ambient-glow-1)" rx="4" />
+  <rect width="900" height="240" fill="url(#ambient-glow-2)" rx="4" />
+
+  <!-- Subtle Matrix Pattern Overlay -->
+  <rect width="900" height="240" fill="url(#matrix-grid)" rx="4" />
+
+  <!-- Outer Frame -->
+  <rect x="0.5" y="0.5" width="899" height="239" fill="none" class="hairline" rx="4" />
+
+  <!-- Internal Grid Guidelines -->
+  <line x1="36" y1="46" x2="864" y2="46" class="hairline-subtle" />
+  <line x1="36" y1="190" x2="864" y2="190" class="hairline-subtle" />
+
+  <!-- Slow Subtle Floating Light Particles in Background -->
+  <circle cx="220" cy="140" r="1.2" fill="#ffffff" opacity="0.12">
+    <animate attributeName="cy" values="140;110;140" dur="14s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.08;0.35;0.08" dur="14s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="680" cy="80" r="1.4" fill="#c89b58" opacity="0.18">
+    <animate attributeName="cy" values="80;115;80" dur="18s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.1;0.4;0.1" dur="18s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="450" cy="170" r="1.0" fill="#ffffff" opacity="0.1">
+    <animate attributeName="cy" values="170;145;170" dur="16s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0.05;0.25;0.05" dur="16s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Top Metadata Bar -->
+  <circle cx="44" cy="27" r="3" class="accent">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="3.6s" repeatCount="indefinite" />
+  </circle>
+  <text x="56" y="31" class="mono label">INDEX // OM-21</text>
+  <text x="210" y="31" class="mono label">RESEARCH &amp; SYSTEMS</text>
+  <text x="864" y="31" text-anchor="end" class="mono label">20.2961° N, 85.8245° E</text>
+
+  <!-- Central Content: Identity -->
+  <g>
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animateTransform attributeName="transform" type="translate" from="0, 4" to="0, 0" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    
+    <text x="40" y="104" class="sans title">OROSMIT MISHRA</text>
+    <text x="40" y="136" class="sans subtext">Studying computer science (AI/ML) at ITER SOA.</text>
+    <text x="40" y="158" class="sans subtext">Building browser video engines and experimenting with data systems.</text>
+  </g>
+
+  <!-- Bottom Metadata Bar -->
+  <text x="40" y="213" class="mono label">BASE: BHUBANESWAR, IN</text>
+  <text x="864" y="213" text-anchor="end" class="mono label">AFFILIATION: ITER SOA &nbsp;·&nbsp; ACTIVE RUNTIME</text>
+</svg>
