@@ -8,98 +8,24 @@
 <img src="https://img.shields.io/badge/RESEARCH-WHO_TM11_INFORMATICS-0b0f19?style=flat-square&labelColor=07080b&color=38bdf8" alt="Research" />
 <img src="https://img.shields.io/badge/RUNTIME-ONLINE-0b0f19?style=flat-square&labelColor=07080b&color=10b981" alt="Runtime" />
 
-</div>
+# 💫 About Me:
+🔭 I’m currently working on "BDAM - Blockchain Digital Asset Management"<br>🤝 I’m looking to collaborate on interesting open-source, AI/ML & systems projects<br>🛠️ I’m looking for help with Rust, systems programming & low-level concepts<br>🌱 I’m currently learning Rust, DSA & deeper systems engineering<br>💬 Ask me about Web Development, AI/ML, Blockchain & Hackathons<br>⚡ Fun fact: I’d rather build something weird than another todo app.
 
-<br>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orosmit-mishra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:study.orosmit21@gmail.com) 
 
-<br>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Deno JS](https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mishraorosmit&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=mishraorosmit&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mishraorosmit&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### // 01 &nbsp; CURRENT FOCUS
-
-`video engines in the browser (autobroll) · who tm11 clinical data pipelines`
-
-<br>
-
----
-
-<br>
-
-### // 02 &nbsp; SELECTED WORK
-
-#### [autobroll](https://github.com/mishraorosmit/mishraorosmit)
-Browser-based short-form video editor that turns transcripts into subtitled clips with automated b-roll sequencing.  
-<img src="https://img.shields.io/badge/TypeScript-0b0f19?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Remotion-0b0f19?style=flat-square&logo=remotion&logoColor=0b84ff" alt="Remotion" />
-<img src="https://img.shields.io/badge/Web_APIs-0b0f19?style=flat-square&logo=googlechrome&logoColor=white" alt="Web APIs" />
-
-<br>
-
-#### [Samhita-Fusion](https://github.com/mishraorosmit/samhita_fusion_major_draft)
-Appointment and clinical data management for traditional medicine practitioners adhering to WHO TM11 standards.  
-<img src="https://img.shields.io/badge/Python-0b0f19?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
-<img src="https://img.shields.io/badge/FastAPI-0b0f19?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-<img src="https://img.shields.io/badge/PostgreSQL-0b0f19?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL" />
-
-<br>
-
-#### [bdam](https://github.com/mishraorosmit/bdam)
-Digital asset management experiments exploring blockchain verification and media provenance.  
-<img src="https://img.shields.io/badge/Blockchain-0b0f19?style=flat-square&logo=ethereum&logoColor=white" alt="Blockchain" />
-<img src="https://img.shields.io/badge/Python-0b0f19?style=flat-square&logo=python&logoColor=3776ab" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript-0b0f19?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=mishraorosmit&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<br>
-
-### // 03 &nbsp; TECHNICAL STACK
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,cpp,react,fastapi,nodejs,threejs,postgres,docker,linux,git&theme=dark" alt="Technical Stack Icons" />
-</div>
-
-<br>
-
-| DOMAIN | TECHNOLOGIES &amp; LOGOS |
-| :--- | :--- |
-| `LANGUAGES` | <img src="https://img.shields.io/badge/Python-0b0f19?style=flat-square&logo=python&logoColor=3776ab" alt="Python" /> <img src="https://img.shields.io/badge/TypeScript-0b0f19?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-0b0f19?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" /> <img src="https://img.shields.io/badge/C%2B%2B-0b0f19?style=flat-square&logo=c%2B%2B&logoColor=00599c" alt="C++" /> |
-| `FRAMEWORKS` | <img src="https://img.shields.io/badge/React-0b0f19?style=flat-square&logo=react&logoColor=61dafb" alt="React" /> <img src="https://img.shields.io/badge/FastAPI-0b0f19?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" /> <img src="https://img.shields.io/badge/Node.js-0b0f19?style=flat-square&logo=node.js&logoColor=5fa04e" alt="Node.js" /> <img src="https://img.shields.io/badge/Three.js-0b0f19?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" /> |
-| `STORAGE` | <img src="https://img.shields.io/badge/PostgreSQL-0b0f19?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL" /> |
-| `SYSTEMS &amp; OPS` | <img src="https://img.shields.io/badge/Docker-0b0f19?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker" /> <img src="https://img.shields.io/badge/Linux-0b0f19?style=flat-square&logo=linux&logoColor=fcc624" alt="Linux" /> <img src="https://img.shields.io/badge/Git-0b0f19?style=flat-square&logo=git&logoColor=f05032" alt="Git" /> <img src="https://img.shields.io/badge/GitHub_Actions-0b0f19?style=flat-square&logo=githubactions&logoColor=2088ff" alt="GitHub Actions" /> |
-
-<br>
-
----
-
-<br>
-
-### // 04 &nbsp; ACTIVITY
-
-<br>
-
-<div align="center">
-  <img src="./stats.svg" alt="Recent GitHub activity and weekly commit volume" width="620" />
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0b0f19?style=for-the-badge&logo=vercel&logoColor=white)](https://new-portfolio-49hh4v40f-orosmits-projects.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0b0f19?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mishraorosmit)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b0f19?style=for-the-badge&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/orosmit-mishra)
-[![Email](https://img.shields.io/badge/EMAIL-0b0f19?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:mishraorosmit21@gmail.com)
-
-<br><br>
-
-<sub>`SYS // OM-2026 · BHUBANESWAR, INDIA`</sub>
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
